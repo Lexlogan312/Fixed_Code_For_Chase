@@ -7,11 +7,11 @@ int main()
     double owes =0.0;
     double pays=0.0;
     double change=0.0;
-    double quarter = 25;
-    double penny = 1;
-    double nickel = 5;
-    double dime = 10;
-    double dollar = 100;
+    int quarter = 25;
+    int penny = 1;
+    int nickel = 5;
+    int dime = 10;
+    int dollar = 100;
     int dollarcount = 0;
     int quartercount=0;
     int pennycount=0;
